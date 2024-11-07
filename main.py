@@ -1,4 +1,4 @@
-from wheater import Wheater
+from core.wheater import Wheater
 from tkinter import *
 from tkinter import ttk
 import tkinter as tk
